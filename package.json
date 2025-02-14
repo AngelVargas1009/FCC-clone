@@ -2,7 +2,7 @@
 	
 	
 	"name": "fcc-learn-npm-package-json",
-	"author": "Angel Vargas",
+	"author": "Angel",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
